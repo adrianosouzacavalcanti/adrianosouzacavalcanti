@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Adriano Araújo
+#  Adriano Araújo
 
 **`Agente Comercial`**
 
