@@ -2,7 +2,7 @@
 
 **`Agente Comercial`**
 
-Meu nome é Adriano e sou pernambucano. Graduado em Engenharia Elétrica pela Universidade de Pernambuco (2019), atualmente estou ampliando minha formação acadêmica cursando Graduação em Análise e Desenvolvimento de Sistemas. Paralelamente, estou me especializando com uma pós-graduação em Auditoria Bancária, buscando unir conhecimentos técnicos e estratégicos para contribuir de forma efetiva em minha área de atuação.a.  
+Meu nome é Adriano, sou pernambucano e moro no Recife. Graduado em Engenharia Elétrica pela Universidade de Pernambuco (2019), atualmente estou ampliando minha formação acadêmica cursando Graduação em Análise e Desenvolvimento de Sistemas. Paralelamente, estou me especializando com uma pós-graduação em Auditoria Bancária, buscando unir conhecimentos técnicos e estratégicos para contribuir de forma efetiva em minha área de atuação.a.  
 
 ### 🤖 Linguagens e Tecnologias
 
